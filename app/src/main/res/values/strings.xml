@@ -1,0 +1,208 @@
+<resources>
+    <string name="app_name">Plant App</string>
+
+    <string-array name="countries_array">
+        <item>Select Country</item>
+        <item>Brunei</item>
+        <item>Cambodia</item>
+        <item>East Timor</item>
+        <item>Indonesia</item>
+        <item>Laos</item>
+        <item>Malaysia</item>
+        <item>Philippines</item>
+        <item>Singapore</item>
+        <item>Thailand</item>
+        <item>Vietnam</item>
+    </string-array>
+
+    <string-array name="empty_region">
+        <item>Select Region</item>
+    </string-array>
+
+    <string-array name="brunei_regions">
+        <item>Select Region</item>
+        <item>Belait</item>
+        <item>Brunei-Muara</item>
+        <item>Temburong</item>
+        <item>Tutong</item>
+    </string-array>
+
+    <string-array name="cambodia_regions">
+        <item>Select Region</item>
+        <item>Banteay Meanchey</item>
+        <item>Battambang</item>
+        <item>Kampong Cham</item>
+        <item>Kampong Chhnang</item>
+        <item>Kampong Speu</item>
+        <item>Kampong Thom</item>
+        <item>Kampot</item>
+        <item>Kandal</item>
+        <item>Kep</item>
+        <item>Koh Kong</item>
+        <item>Kratie</item>
+        <item>Mondulkiri</item>
+        <item>Oddar Meanchey</item>
+        <item>Pailin</item>
+        <item>Phnom Penh</item>
+        <item>Preah Sihanouk</item>
+        <item>Preah Vihear</item>
+        <item>Prey Veng</item>
+        <item>Pursat</item>
+        <item>Ratanakiri</item>
+        <item>Siem Reap</item>
+        <item>Stung Treng</item>
+        <item>Svay Rieng</item>
+        <item>Takeo</item>
+        <item>Tboung Khmum</item>
+    </string-array>
+
+    <string-array name="east_timor_regions">
+        <item>Select Region</item>
+        <item>Aileu</item>
+        <item>Ainaro</item>
+        <item>Baucau</item>
+        <item>Bobonaro</item>
+        <item>Cova Lima</item>
+        <item>Dili</item>
+        <item>Ermera</item>
+        <item>Lautém</item>
+        <item>Liquiçá</item>
+        <item>Manatuto</item>
+        <item>Manufahi</item>
+        <item>Viqueque</item>
+        <item>Oecusse</item>
+    </string-array>
+
+    <string-array name="indonesia_regions">
+        <item>Select Region</item>
+        <item>Aceh</item>
+        <item>Bali</item>
+        <item>Banten</item>
+        <item>Bengkulu</item>
+        <item>Central Java</item>
+        <item>Central Kalimantan</item>
+        <item>Central Sulawesi</item>
+        <item>East Java</item>
+        <item>East Kalimantan</item>
+        <item>East Nusa Tenggara</item>
+        <item>Gorontalo</item>
+        <item>Jakarta</item>
+        <item>Jambi</item>
+        <item>Lampung</item>
+        <item>Maluku</item>
+        <item>North Kalimantan</item>
+        <item>North Maluku</item>
+        <item>North Sulawesi</item>
+        <item>North Sumatra</item>
+        <item>Papua</item>
+        <item>Riau</item>
+        <item>Riau Islands</item>
+        <item>Southeast Sulawesi</item>
+        <item>South Kalimantan</item>
+        <item>South Sulawesi</item>
+        <item>South Sumatra</item>
+        <item>West Java</item>
+        <item>West Kalimantan</item>
+        <item>West Nusa Tenggara</item>
+        <item>West Papua</item>
+        <item>West Sulawesi</item>
+        <item>West Sumatra</item>
+        <item>Yogyakarta</item>
+    </string-array>
+
+    <string-array name="laos_regions">
+        <item>Select Region</item>
+        <item>Attapeu</item>
+        <item>Bokeo</item>
+        <item>Borikhamxay</item>
+        <item>Champasak</item>
+        <item>Houaphanh</item>
+        <item>Khammouane</item>
+        <item>Luang Namtha</item>
+        <item>Luang Prabang</item>
+        <item>Oudomxay</item>
+        <item>Phongsaly</item>
+        <item>Saravan</item>
+        <item>Savannakhet</item>
+        <item>Vientiane Prefecture</item>
+        <item>Vientiane Province</item>
+        <item>Xayabouly</item>
+        <item>Xaysomboun</item>
+        <item>Xekong</item>
+        <item>Xieng Khouang</item>
+    </string-array>
+
+    <string-array name="malaysia_regions">
+        <item>Select Region</item>
+        <item>Johor</item>
+        <item>Kedah</item>
+        <item>Kelantan</item>
+        <item>Kuala Lumpur</item>
+        <item>Labuan</item>
+        <item>Malacca</item>
+        <item>Negeri Sembilan</item>
+        <item>Pahang</item>
+        <item>Penang</item>
+        <item>Perak</item>
+        <item>Perlis</item>
+        <item>Putrajaya</item>
+        <item>Sabah</item>
+        <item>Sarawak</item>
+        <item>Selangor</item>
+        <item>Terengganu</item>
+    </string-array>
+
+    <string-array name="philippines_regions">
+        <item>Select Region</item>
+        <item>Region I - Ilocos Region</item>
+        <item>Region II - Cagayan Valley</item>
+        <item>Region III - Central Luzon</item>
+        <item>Region IV-A - CALABARZON</item>
+        <item>Region IV-B - MIMAROPA</item>
+        <item>Region V - Bicol Region</item>
+        <item>Region VI - Western Visayas</item>
+        <item>Region VII - Central Visayas</item>
+        <item>Region VIII - Eastern Visayas</item>
+        <item>Region IX - Zamboanga Peninsula</item>
+        <item>Region X - Northern Mindanao</item>
+        <item>Region XI - Davao Region</item>
+        <item>Region XII - SOCCSKSARGEN</item>
+        <item>Region XIII - Caraga</item>
+        <item>BARMM - Bangsamoro Autonomous Region</item>
+        <item>NCR - National Capital Region</item>
+        <item>Cordillera Administrative Region</item>
+    </string-array>
+
+    <string-array name="singapore_regions">
+        <item>Select Region</item>
+        <item>Central Region</item>
+        <item>East Region</item>
+        <item>North Region</item>
+        <item>North-East Region</item>
+        <item>West Region</item>
+    </string-array>
+
+    <string-array name="thailand_regions">
+        <item>Select Region</item>
+        <item>Bangkok</item>
+        <item>Central Thailand</item>
+        <item>Eastern Thailand</item>
+        <item>Northern Thailand</item>
+        <item>Northeastern Thailand</item>
+        <item>Southern Thailand</item>
+        <item>Western Thailand</item>
+    </string-array>
+
+    <string-array name="vietnam_regions">
+        <item>Select Region</item>
+        <item>Northwest</item>
+        <item>Northeast</item>
+        <item>Red River Delta</item>
+        <item>North Central Coast</item>
+        <item>South Central Coast</item>
+        <item>Central Highlands</item>
+        <item>Southeast</item>
+        <item>Mekong Delta</item>
+    </string-array>
+
+</resources>
